@@ -99,10 +99,6 @@ h2{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen  and (max-width: 768px) {
-   body{
-    color: red;
-   }
-
    .ctrl{
     margin-right: 20px;
    }
